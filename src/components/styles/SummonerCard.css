@@ -1,0 +1,21 @@
+div {
+    padding: 5px;
+}
+
+.summonerCardContainer{
+    display: flex;
+    flex-direction: row;
+    height: 300px;
+}
+
+.profilePicture{
+    height: 100px; 
+    width: 100px;
+    border-radius: 1em;
+}
+
+.summonerName{
+    font: 40px bold;
+    
+}
+

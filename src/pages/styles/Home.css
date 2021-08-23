@@ -1,0 +1,14 @@
+.title{
+    color: white;
+    border: 5px;
+    border-color: black;
+    height: 100px;
+    text-align: middle;
+}
+
+.backgroundImage {
+    position: absolute;
+    background-image: url("https://images.contentstack.io/v3/assets/blt76b5e73bfd1451ea/blt0fdb085fd380322a/60eca98116291c305a36a451/TFT_MID521_Link-Image.jpg");
+    height: 1000px;
+    width: 100%;
+}
