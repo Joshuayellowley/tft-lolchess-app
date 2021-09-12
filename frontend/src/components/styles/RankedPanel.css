@@ -1,0 +1,16 @@
+
+
+.rankedPanelContainer{
+    background-color: white;
+    border: 5px black solid;
+    border-radius: 1rem;
+    padding: 5px;
+    margin: 5px;
+}
+
+.tierLogo{
+    height: 190px;
+    width: 190px;
+    text-align: center;
+    padding: 0px 30px;
+}

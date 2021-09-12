@@ -1,0 +1,18 @@
+
+
+.submitButton{
+    background-color: orange;
+    color: white;
+    border-radius: 1rem;
+    height: 50px; 
+    width: 100px;
+    margin: 2px;
+}
+
+.summonerNameEntry{
+    background-color: white;
+    border-radius: 1rem ;
+    height: 50px; 
+    width: 30%;
+    margin: 2px;
+}

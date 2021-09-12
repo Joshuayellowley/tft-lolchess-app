@@ -1,0 +1,28 @@
+.title{
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: middle;
+    font-size: 3rem;
+    font-weight: bold;
+    text-shadow: 0 0 3px #000000, 0 0 5px #0000FF;
+    padding: 10px;
+    margin: 10px;
+}
+
+.introMessage{
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: middle;
+    font-size: 2rem;
+    font-weight: bold;
+    text-shadow: 0 0 3px #000000, 0 0 5px #0000FF;
+    padding: 10px;
+    margin: 10px;
+}
+
+.backgroundImage {
+    position: absolute;
+    background-image: url("https://images.contentstack.io/v3/assets/blt76b5e73bfd1451ea/blt0fdb085fd380322a/60eca98116291c305a36a451/TFT_MID521_Link-Image.jpg");
+    height: 1000px;
+    width: 100%;
+}
